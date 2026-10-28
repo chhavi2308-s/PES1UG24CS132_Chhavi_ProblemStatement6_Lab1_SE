@@ -1,0 +1,26 @@
+************* Module helpdesk_system
+helpdesk_system.py:13:0: C0301: Line too long (118/100) (line-too-long)
+helpdesk_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+helpdesk_system.py:7:0: C0103: Constant name "ticket_counter" doesn't conform to UPPER_CASE naming style (invalid-name)
+helpdesk_system.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:10:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+helpdesk_system.py:11:4: W0603: Using the global statement (global-statement)
+helpdesk_system.py:14:23: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+helpdesk_system.py:17:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:20:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:23:4: W0702: No exception type(s) specified (bare-except)
+helpdesk_system.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:30:0: C0103: Function name "unresolvedHighPriority" doesn't conform to snake_case naming style (invalid-name)
+helpdesk_system.py:32:4: C0206: Consider iterating with .items() (consider-using-dict-items)
+helpdesk_system.py:33:43: C0121: Comparison 'tickets[t]['tech'] == None' should be 'tickets[t]['tech'] is None' (singleton-comparison)
+helpdesk_system.py:37:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:41:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+helpdesk_system.py:41:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+helpdesk_system.py:45:0: C0116: Missing function or method docstring (missing-function-docstring)
+helpdesk_system.py:47:4: W0612: Unused variable 't2' (unused-variable)
+
+-----------------------------------
+Your code has been rated at 5.53/10
+
